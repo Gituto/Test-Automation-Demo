@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate - Missing Username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9803e01d-616c-4da1-bfb0-ff2b235d33fd</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>64214f96-968c-48e4-bbd8-495e1c8399c0</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'5xx1bkCcAlw='</defaultValue>
+      <description></description>
+      <id>ac839ebc-1816-4179-b201-8813b96f89c6</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
